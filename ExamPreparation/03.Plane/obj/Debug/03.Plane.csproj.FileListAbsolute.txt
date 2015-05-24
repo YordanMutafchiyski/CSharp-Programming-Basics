@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\03.Plane\bin\Debug\03.Plane.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\03.Plane\obj\Debug\03.Plane.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\03.Plane\bin\Debug\03.Plane.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\03.Plane\bin\Debug\03.Plane.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\03.Plane\obj\Debug\03.Plane.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\03.Plane\obj\Debug\03.Plane.pdb

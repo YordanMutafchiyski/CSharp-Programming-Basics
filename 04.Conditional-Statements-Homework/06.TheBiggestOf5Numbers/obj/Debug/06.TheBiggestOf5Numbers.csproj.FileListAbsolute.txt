@@ -1,0 +1,5 @@
+c:\users\yordan_2\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.TheBiggestOf5Numbers\bin\Debug\06.TheBiggestOf5Numbers.exe.config
+c:\users\yordan_2\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.TheBiggestOf5Numbers\bin\Debug\06.TheBiggestOf5Numbers.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.TheBiggestOf5Numbers\bin\Debug\06.TheBiggestOf5Numbers.pdb
+c:\users\yordan_2\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.TheBiggestOf5Numbers\obj\Debug\06.TheBiggestOf5Numbers.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.TheBiggestOf5Numbers\obj\Debug\06.TheBiggestOf5Numbers.pdb

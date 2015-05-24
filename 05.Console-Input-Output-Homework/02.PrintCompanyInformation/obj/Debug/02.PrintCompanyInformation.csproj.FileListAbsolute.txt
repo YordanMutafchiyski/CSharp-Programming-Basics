@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\01.SumOf3Numbers\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\01.SumOf3Numbers\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\01.SumOf3Numbers\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\01.SumOf3Numbers\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\01.SumOf3Numbers\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\01.SumOf3Numbers\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

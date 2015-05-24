@@ -1,0 +1,8 @@
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\bin\Debug\Operators-Expressions-and-Statements.exe.config
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\bin\Debug\Operators-Expressions-and-Statements.exe
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\bin\Debug\Operators-Expressions-and-Statements.pdb
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\obj\Debug\Operators-Expressions-and-Statements.exe
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\obj\Debug\Operators-Expressions-and-Statements.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\bin\Debug\Operators-Expressions-and-Statements.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\obj\Debug\Operators-Expressions-and-Statements.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\obj\Debug\Operators-Expressions-and-Statements.pdb

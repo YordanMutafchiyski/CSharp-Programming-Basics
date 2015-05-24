@@ -1,0 +1,6 @@
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\02.PetarsGame\bin\Debug\02.PetarsGame.exe.config
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\02.PetarsGame\bin\Debug\02.PetarsGame.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\02.PetarsGame\bin\Debug\02.PetarsGame.pdb
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\02.PetarsGame\obj\Debug\02.PetarsGame.csprojResolveAssemblyReference.cache
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\02.PetarsGame\obj\Debug\02.PetarsGame.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\02.PetarsGame\obj\Debug\02.PetarsGame.pdb

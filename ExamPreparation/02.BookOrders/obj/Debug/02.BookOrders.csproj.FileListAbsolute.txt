@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\02.BookOrders\bin\Debug\02.BookOrders.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\02.BookOrders\bin\Debug\02.BookOrders.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\02.BookOrders\bin\Debug\02.BookOrders.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\02.BookOrders\obj\Debug\02.BookOrders.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\02.BookOrders\obj\Debug\02.BookOrders.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\02.BookOrders\obj\Debug\02.BookOrders.pdb

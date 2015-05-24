@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\06.NKFactorial\bin\Debug\06.NKFactorial.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\06.NKFactorial\bin\Debug\06.NKFactorial.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\06.NKFactorial\bin\Debug\06.NKFactorial.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\06.NKFactorial\obj\Debug\06.NKFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\06.NKFactorial\obj\Debug\06.NKFactorial.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\06.NKFactorial\obj\Debug\06.NKFactorial.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\05.BitsKIller\bin\Debug\05.BitsKIller.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\05.BitsKIller\bin\Debug\05.BitsKIller.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\05.BitsKIller\bin\Debug\05.BitsKIller.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\05.BitsKIller\obj\Debug\05.BitsKIller.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\05.BitsKIller\obj\Debug\05.BitsKIller.pdb

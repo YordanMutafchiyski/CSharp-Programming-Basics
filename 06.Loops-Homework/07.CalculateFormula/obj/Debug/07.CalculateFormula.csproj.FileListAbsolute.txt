@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\07.CalculateFormula\bin\Debug\07.CalculateFormula.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\07.CalculateFormula\bin\Debug\07.CalculateFormula.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\07.CalculateFormula\bin\Debug\07.CalculateFormula.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\07.CalculateFormula\obj\Debug\07.CalculateFormula.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\07.CalculateFormula\obj\Debug\07.CalculateFormula.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Loops-Homework\07.CalculateFormula\obj\Debug\07.CalculateFormula.csprojResolveAssemblyReference.cache

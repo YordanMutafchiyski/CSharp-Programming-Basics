@@ -1,0 +1,6 @@
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\03.SunLight\bin\Debug\03.SunLight.exe.config
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\03.SunLight\bin\Debug\03.SunLight.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\03.SunLight\bin\Debug\03.SunLight.pdb
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\03.SunLight\obj\Debug\03.SunLight.csprojResolveAssemblyReference.cache
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\03.SunLight\obj\Debug\03.SunLight.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\EXAM\03.SunLight\obj\Debug\03.SunLight.pdb

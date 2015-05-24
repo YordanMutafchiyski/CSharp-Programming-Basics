@@ -1,0 +1,6 @@
+c:\users\yordan_2\documents\visual studio 2013\Projects\PracticalExamApril26\01\bin\Debug\01.exe.config
+c:\users\yordan_2\documents\visual studio 2013\Projects\PracticalExamApril26\01\bin\Debug\01.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\PracticalExamApril26\01\bin\Debug\01.pdb
+c:\users\yordan_2\documents\visual studio 2013\Projects\PracticalExamApril26\01\obj\Debug\01.CompoundInterest.csprojResolveAssemblyReference.cache
+c:\users\yordan_2\documents\visual studio 2013\Projects\PracticalExamApril26\01\obj\Debug\01.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\PracticalExamApril26\01\obj\Debug\01.pdb

@@ -1,0 +1,6 @@
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\02.Star\bin\Debug\02.Star.exe.config
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\02.Star\bin\Debug\02.Star.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\02.Star\bin\Debug\02.Star.pdb
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\02.Star\obj\Debug\02.Star.csprojResolveAssemblyReference.cache
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\02.Star\obj\Debug\02.Star.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\02.Star\obj\Debug\02.Star.pdb

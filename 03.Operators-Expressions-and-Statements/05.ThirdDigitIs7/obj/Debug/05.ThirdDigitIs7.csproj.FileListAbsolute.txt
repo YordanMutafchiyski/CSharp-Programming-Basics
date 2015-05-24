@@ -1,0 +1,9 @@
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.csprojResolveAssemblyReference.cache
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

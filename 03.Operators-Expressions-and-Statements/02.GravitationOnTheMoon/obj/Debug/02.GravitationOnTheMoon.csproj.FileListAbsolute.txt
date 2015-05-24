@@ -1,0 +1,5 @@
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\Yordan\Visual Studio2013\Operators-Expressions-and-Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

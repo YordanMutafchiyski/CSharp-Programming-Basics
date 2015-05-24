@@ -1,0 +1,6 @@
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\01.Disk\bin\Debug\01.Disk.exe.config
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\01.Disk\bin\Debug\01.Disk.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\01.Disk\bin\Debug\01.Disk.pdb
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\01.Disk\obj\Debug\01.Disk.csprojResolveAssemblyReference.cache
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\01.Disk\obj\Debug\01.Disk.exe
+c:\users\yordan_2\documents\visual studio 2013\Projects\ExamPreparation\01.Disk\obj\Debug\01.Disk.pdb

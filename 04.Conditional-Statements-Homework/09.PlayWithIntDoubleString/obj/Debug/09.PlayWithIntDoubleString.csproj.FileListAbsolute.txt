@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\04.12AprilMagicDates\bin\Debug\04.12AprilMagicDates.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\04.12AprilMagicDates\bin\Debug\04.12AprilMagicDates.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\04.12AprilMagicDates\bin\Debug\04.12AprilMagicDates.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\04.12AprilMagicDates\obj\Debug\04.12AprilMagicDates.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\04.12AprilMagicDates\obj\Debug\04.12AprilMagicDates.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\ExamPreparation\04.12AprilMagicDates\obj\Debug\04.12AprilMagicDates.pdb

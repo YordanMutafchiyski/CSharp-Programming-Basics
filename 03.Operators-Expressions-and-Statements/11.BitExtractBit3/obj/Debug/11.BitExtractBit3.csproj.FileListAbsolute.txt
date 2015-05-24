@@ -1,0 +1,6 @@
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11.BitExtractBit3\bin\Debug\11.BitExtractBit3.exe.config
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11.BitExtractBit3\bin\Debug\11.BitExtractBit3.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11.BitExtractBit3\bin\Debug\11.BitExtractBit3.pdb
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11.BitExtractBit3\obj\Debug\11.BitExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11.BitExtractBit3\obj\Debug\11.BitExtractBit3.exe
+C:\Users\Yordan_2\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\11.BitExtractBit3\obj\Debug\11.BitExtractBit3.pdb
